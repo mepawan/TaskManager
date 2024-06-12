@@ -5,7 +5,7 @@
 
 # Intrtoduction
 
- Welcome to our Task Manager App – your all-in-one solution for efficient task management, seamless to-do list organization, and convenient note-taking. This application is designed to enhance your productivity by providing a unified platform for managing your daily activities. Whether you're an individual striving for personal organization or part of a collaborative team, our app is here to simplify your workflow.
+ Welcome to our Task Manager App – your all-in-one solution for efficient task management. This application is designed to enhance your productivity by providing a unified platform for managing your daily activities. Whether you're an individual striving for personal organization or part of a collaborative team, our app is here to simplify your workflow.
 # Features
 # Task Management :
 
